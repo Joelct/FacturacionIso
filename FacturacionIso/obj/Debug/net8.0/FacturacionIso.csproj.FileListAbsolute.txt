@@ -236,3 +236,4 @@ C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\obj\Debug\net8.0\refi
 C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\obj\Debug\net8.0\FacturacionIso.pdb
 C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\obj\Debug\net8.0\FacturacionIso.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\obj\Debug\net8.0\ref\FacturacionIso.dll
+C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\obj\Debug\net8.0\FacturacionIso.sourcelink.json

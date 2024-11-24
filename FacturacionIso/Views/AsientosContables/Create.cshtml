@@ -29,9 +29,14 @@
             </div>
             <div class="form-group">
                 <label asp-for="TipoMovimiento" class="control-label"></label>
-                <input asp-for="TipoMovimiento" class="form-control" />
+                <select asp-for="TipoMovimiento" class="form-control">
+                    <option value="Select">Seleccione una opcion</option>
+                    <option value="Credito">Credito</option>
+                    <option value="Debito">Debito</option>
+                </select>
                 <span asp-validation-for="TipoMovimiento" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="FechaAsiento" class="control-label"></label>
                 <input asp-for="FechaAsiento" class="form-control" />
