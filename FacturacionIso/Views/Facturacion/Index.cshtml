@@ -1,0 +1,71 @@
+﻿@model IEnumerable<FacturacionIso.Models.Facturacion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Facturacion</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdVendedor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdArticulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comentario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioUnitario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdVendedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdArticulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comentario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioUnitario)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdFacturacion">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdFacturacion">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdFacturacion">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

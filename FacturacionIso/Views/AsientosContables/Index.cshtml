@@ -1,0 +1,84 @@
+﻿@model IEnumerable<FacturacionIso.Models.AsientosContables>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Asiento Contables</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cuenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoMovimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CuentaCR)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CuentaDB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaAsiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoAsiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cuenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoMovimiento)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.CuentaCR)
+             </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.CuentaDB)
+             </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaAsiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoAsiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAsiento">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAsiento">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAsiento">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

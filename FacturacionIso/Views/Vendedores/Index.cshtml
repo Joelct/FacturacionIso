@@ -1,0 +1,47 @@
+﻿@model IEnumerable<FacturacionIso.Models.Vendedores>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Vendedores</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PorcientoComision)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PorcientoComision)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVendedor">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdVendedor">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVendedor">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

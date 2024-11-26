@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FacturacionIso
+build_property.RootNamespace = FacturacionIso
+build_property.ProjectDir = C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo\source\repos\FacturacionIso\FacturacionIso
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Articulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Articulos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Articulos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Articulos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/AsientosContables/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/AsientosContables/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/AsientosContables/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/AsientosContables/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/AsientosContables/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Facturacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Facturacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Facturacion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Facturacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Facturacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYWNpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Vendedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Vendedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Vendedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Vendedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Vendedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/FacturacionIso/FacturacionIso/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bbfwwaj2pr
